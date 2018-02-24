@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="https://themerkle.com/wp-content/uploads/Po.et_.png" style="display:inline-block; width : 40%">
+  <img src="https://themerkle.com/wp-content/uploads/Po.et_.png" style="display:inline-block; width : 140px;">
  
-  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/002/full/angularjs.png" style="display:inline-block; width : 40%">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/002/full/angularjs.png" style="display:inline-block; width : 140px;">
   <br><br>
 </div>
 
