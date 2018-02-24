@@ -1,0 +1,28 @@
+{
+  "name": "ng2-poet",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DomEscobar/ng2-poet.git"
+  },
+  "author": {
+    "name": "Dominic Escobarte",
+    "email": "admin@nokol.net"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DomEscobar/ng2-poet.git/issues"
+  },
+  "main": "ng2-poet.umd.js",
+  "module": "ng2-poet.js",
+  "jsnext:main": "ng2-poet.js",
+  "typings": "ng2-poet.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
