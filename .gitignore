@@ -33,4 +33,5 @@ dist/*
 
 # Playground tmp files
 .playground
- .vs
+.vs/*
+doc/*
