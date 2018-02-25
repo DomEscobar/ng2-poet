@@ -6,14 +6,15 @@ import { Observable } from 'rxjs/Observable';
 import { WorkAttributes } from './models/workAttributes';
 import { Profile } from './models/profile';
 import { ApiToken } from './models/apiToken';
-import { Work } from 'models/work';
+import { Work } from './models/work';
+import { Http } from '@angular/http';
 
 @Injectable()
 export class FrostService extends BaseService
 {
-  constructor(injector: Injector)
+  constructor(http : Http)
   {
-    super(injector);
+    super(http);
   }
 
   /**

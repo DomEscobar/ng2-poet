@@ -7,15 +7,12 @@ declare var unescape: any;
 
 export class BaseService
 {
-  protected http: Http;
   protected APIURL = 'https://api.frost.po.et/';
 
   public token = '';
 
-  constructor(private injector: Injector)
+  constructor(private http: Http)
   {
-    // in case we want more services
-    this.http = this.injector.get(Http);
   }
 
   /**

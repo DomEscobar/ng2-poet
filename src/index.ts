@@ -22,12 +22,12 @@ export * from './models/workAttributes';
   exports: [
   ]
 })
-export class SampleModule
+export class PoetModule
 {
   static forRoot(): ModuleWithProviders
   {
     return {
-      ngModule: SampleModule,
+      ngModule: PoetModule,
       providers: [FrostService]
     };
   }

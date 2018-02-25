@@ -1,4 +1,6 @@
+Angular 2 library to interact with Po.et ' s Frost API 
 
+---
 <div align="center">
   <img src="https://themerkle.com/wp-content/uploads/Po.et_.png" style="display:inline-block; width : 140px;">
  
@@ -17,10 +19,24 @@ $ npm install ng2-poet --save
 ```
 
 ### Import
+Import PoetModule for usage and inject the FrostService
+```javascript
+import { PoetModule, FrostService} from 'ng2-poet'
+
+
+@NgModule({
+  imports: [
+    PoetModule
+  ],
+  providers: [FrostService],
+})
+```
+
+
+There are also available models :
 
 ```javascript
-import { FrostService } from 'ng2-poet'
-//Import models from the models folder
+import { WorkAttributes, Work, Account, Profile} from 'ng2-poet'
 ```
 
 ### Methodes
