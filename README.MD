@@ -2,9 +2,9 @@ Angular 2 library to interact with Po.et ' s Frost API
 
 ---
 <div align="center">
-  <img src="https://themerkle.com/wp-content/uploads/Po.et_.png" style="display:inline-block; width : 140px;">
+  <img src="https://themerkle.com/wp-content/uploads/Po.et_.png"  width="140" style="display:inline-block;">
  
-  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/002/full/angularjs.png" style="display:inline-block; width : 140px;">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/002/full/angularjs.png" width="140" style="display:inline-block;">
   <br><br>
 </div>
 
